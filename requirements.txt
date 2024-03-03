@@ -1,0 +1,9 @@
+boto3==1.26.106
+Flask==2.2.3
+librosa==0.10.0.post2
+omegaconf==2.3.0
+pydub==0.25.1
+soundfile==0.12.1
+urllib3==1.26.14
+wget==3.2
+Werkzeug==2.2.2
